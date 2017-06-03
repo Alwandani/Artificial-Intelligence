@@ -1,0 +1,19 @@
+Nama Kelompok  : The Foolest
+Judul Topik    : Artificial Intelligence
+Alamat Gituhub : https://github.com/Alwandani/Artificial-Intelligence.git
+Alamat Trello  : https://trello.com/b/syfwyOA4   -> Trellonya blm update
+
+Nama & NIM Anggota :
+1. Davrin Natanael Manalu : 151113608
+2. Alwanani               : 151112564
+3. Harrys Keflin Batubara : 151113209
+4. Ridho Bastanta Bangun  : 151113306
+===================================================================
+
+SPRINT 1
+--------
+31 Mei - 1 Mei
+Scrum Master -> Alwandani 151112564
+
+ 1. Membuat Repository AI
+ 2. Mengepush data dari presentasi
