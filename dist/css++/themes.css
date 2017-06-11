@@ -242,7 +242,9 @@
 }
 .carousel section,
 .carousel .arrow:hover {
-	background: url('../images/orion.jpg');
+	background: url('../images/g2.jpg');
+	background-repeat: no-repeat;
+	background-size: 120%;
 }
 .carousel a {
 	color: rgb(131, 199, 69);
