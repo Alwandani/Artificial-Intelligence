@@ -27,7 +27,12 @@ Scrum Master ->
 SPRINT 3
 --------
 5 Mei - 7 Mei
-Scrum Master ->
+Scrum Master -> Davrin Natanael Manalu 151113608
+
+ 1.Apa itu Gatebox
+ 2.Pengenalan Virtual Home Robot
+ 3.Kelebihan Virtual Home Robot
+ 4.Kekurangan Virtual Home Robot
 
 
 
