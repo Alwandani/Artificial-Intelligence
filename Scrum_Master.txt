@@ -1,7 +1,7 @@
 Nama Kelompok  : The Foolest
 Judul Topik    : Artificial Intelligence
 Alamat Gituhub : https://github.com/Alwandani/Artificial-Intelligence.git
-Alamat Trello  : https://trello.com/b/syfwyOA4   -> Trellonya blm update
+Alamat Trello  : https://trello.com/b/syfwyOA4
 
 Nama & NIM Anggota :
 1. Davrin Natanael Manalu : 151113608
@@ -12,7 +12,7 @@ Nama & NIM Anggota :
 
 SPRINT 1
 --------
-31 Mei - 1 Mei
+31 Mei - 1 Juni
 Scrum Master -> Alwandani 151112564
 
  1. Membuat Repository AI
@@ -20,13 +20,14 @@ Scrum Master -> Alwandani 151112564
 
 SPRINT 2
 --------
-2 Mei - 4 Mei
-Scrum Master ->
+2 Juni - 4 Juni
+Scrum Master -> Harrys Keflin 151113209
+
 
 
 SPRINT 3
 --------
-5 Mei - 7 Mei
+5 Juni - 7 Juni
 Scrum Master -> Davrin Natanael Manalu 151113608
 
  1.Apa itu Gatebox
@@ -38,5 +39,9 @@ Scrum Master -> Davrin Natanael Manalu 151113608
 
 SPRINT 4
 --------
-9 Mei - 11 Mei
-Scrum Master ->
+9 Juni - 11 Juni
+Scrum Master -> Ridho Bastanta Bangun 151113306
+ 1. Membuat slide
+ 2. Memperbaiki Tema sebelumnya
+ 3. Mempercantik tampilan slide
+ 4. Mencari Materi tambahan 
